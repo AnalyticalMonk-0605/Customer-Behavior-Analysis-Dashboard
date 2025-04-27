@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 27 20:36:30 2025
-
-@author: sanja
-"""
 import streamlit as st
 
 import pandas as pd
